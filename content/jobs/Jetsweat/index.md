@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2023-01-25'
+title: 'Engineer Intern'
+company: 'JetSweat'
+location: 'New York, NY'
+range: 'Jan 2023 - Present'
+url: 'https://www.jetsweat.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

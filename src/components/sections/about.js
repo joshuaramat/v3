@@ -51,7 +51,7 @@ const StyledPic = styled.div`
   max-width: 300px;
 
   @media (max-width: 768px) {
-    margin: 50px auto 0;
+    margin: 100px auto 0;
     width: 70%;
   }
 
@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Node.js', 'TypeScript', 'Python/Django'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,31 +134,28 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
+            <p>Hello! My name is Joshua and I enjoy creating things that live on the internet.</p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I am a early career software engineer with a diverse background in healthcare and a
+              passion for helping others. I recently completed UC Berkeley's Full Stack Web
+              Development bootcamp and am excited to put my newly acquired skills to use. With a
+              strong foundation in Javascript, Python, and Django, I am always eager to learn new
+              technologies and take on new challenges.
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              In my previous career as a physical therapy aide, I saw firsthand the transformative
+              power of technology and became determined to bring my skills and passions together in
+              the world of software development. When I'm not coding, you can find me exploring the
+              great outdoors, practicing Brazilian Jiu-Jitsu, or taking photos.
+            </p>
+            <p>
+              I am ready to make an impact and join passionate, like-minded individuals who are as
+              excited to push the boundaries of what's possible with technology as I am. Whether
+              it's through developing innovative healthcare solutions or simply creating something
+              cool and meaningful, I am ready to take on any challenge that comes my way. Thanks for
+              taking the time to learn a little bit more about me, and I look forward to connecting
+              with you!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +170,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.JPG"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

@@ -1,10 +1,10 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+title: 'Physical Therapy Aide'
+company: 'Agile Physical Therapy'
+location: 'Sunnyvale, CA'
+range: 'April 2019 - Present'
+url: 'https://agilept.com/'
 ---
 
 - Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
