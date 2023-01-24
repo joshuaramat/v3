@@ -3,10 +3,10 @@ date: '2016-12-21'
 title: 'Physical Therapy Aide'
 company: 'Agile Physical Therapy'
 location: 'Sunnyvale, CA'
-range: 'April 2019 - Present'
+range: 'Apr 2019 - Apr 2023'
 url: 'https://agilept.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Created a web application to compile and consolidate the newly created training modules into one platform, allowing staff easy access on clinic devices.
+- Collaborated successful implementation of revised procedures and workflows enabling therapists & patients to transition smoothly into telehealth services during COVID-19 pandemic.
+- Facilitated training sessions for new hires to streamline the onboarding process, reducing time by 66%.

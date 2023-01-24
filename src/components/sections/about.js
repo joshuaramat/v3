@@ -137,27 +137,12 @@ const About = () => {
             <p>Hello! My name is Joshua and I enjoy creating things that live on the internet.</p>
 
             <p>
-              I am a early career software engineer with a diverse background in healthcare and a
-              passion for helping others. I recently completed UC Berkeley's Full Stack Web
-              Development bootcamp and am excited to put my newly acquired skills to use. With a
-              strong foundation in Javascript, Python, and Django, I am always eager to learn new
-              technologies and take on new challenges.
+              I'm a software engineer with a diverse background in healthcare and a passion for
+              helping others. In my previous role, I saw firsthand the transformative power of
+              technology and became determined to bring my skills and passions together in the world
+              of software development. When I'm not coding, you can find me exploring the great
+              outdoors, practicing Brazilian Jiu-Jitsu, or taking photos.
             </p>
-            <p>
-              In my previous career as a physical therapy aide, I saw firsthand the transformative
-              power of technology and became determined to bring my skills and passions together in
-              the world of software development. When I'm not coding, you can find me exploring the
-              great outdoors, practicing Brazilian Jiu-Jitsu, or taking photos.
-            </p>
-            <p>
-              I am ready to make an impact and join passionate, like-minded individuals who are as
-              excited to push the boundaries of what's possible with technology as I am. Whether
-              it's through developing innovative healthcare solutions or simply creating something
-              cool and meaningful, I am ready to take on any challenge that comes my way. Thanks for
-              taking the time to learn a little bit more about me, and I look forward to connecting
-              with you!
-            </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 

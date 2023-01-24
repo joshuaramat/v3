@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m currently looking for any opportunities to grow. my inbox is always open. Whether you
-        have a question or just want to say hi, I’ll try my best to get back to you!
+        I'm open to new opportunities and happy to connect. Feel free to reach out with any
+        questions or just to say hi, I'll respond as soon as I can!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
